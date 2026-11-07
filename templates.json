@@ -9,20 +9,29 @@
       "c1": "#2A0508",
       "c2": "#000000",
       "accent": "#E50914",
-      "categories": [],
+      "categories": [
+        "Electronics",
+        "Mobile Phones & Tablets",
+        "Computers & Laptops",
+        "Home Appliances",
+        "Gaming & Consoles",
+        "Cameras & Photography"
+      ],
       "previewFile": "",
       "prompt": "",
       "defaults": {}
     },
     {
       "id": "big_sale",
-      "name": "Big Sale12",
+      "name": "Big Sale",
       "subtitle": "Discount • Dates",
       "ready": false,
       "c1": "#3B0A5E",
       "c2": "#0A0220",
       "accent": "#FFC107",
-      "categories": []
+      "categories": [
+        "*"
+      ]
     },
     {
       "id": "fashion_drop",
@@ -63,7 +72,9 @@
       "c1": "#0A3B5E",
       "c2": "#020A20",
       "accent": "#22D3FF",
-      "categories": []
+      "categories": [
+        "*"
+      ]
     }
   ]
 }
