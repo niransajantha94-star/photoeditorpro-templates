@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "templates": [
+    {
+      "id": "product_offer",
+      "name": "Product Offer",
+      "subtitle": "Price • Contact • Delivery",
+      "ready": true,
+      "c1": "#2A0508",
+      "c2": "#000000",
+      "accent": "#E50914",
+      "categories": [],
+      "previewFile": "",
+      "prompt": "",
+      "defaults": {}
+    },
+    {
+      "id": "big_sale",
+      "name": "Big Sale",
+      "subtitle": "Discount • Dates",
+      "ready": false,
+      "c1": "#3B0A5E",
+      "c2": "#0A0220",
+      "accent": "#FFC107",
+      "categories": []
+    },
+    {
+      "id": "fashion_drop",
+      "name": "Fashion Drop",
+      "subtitle": "New arrivals • Sizes",
+      "ready": false,
+      "c1": "#5E0A3B",
+      "c2": "#200212",
+      "accent": "#F472B6",
+      "categories": [
+        "Clothing & Fashion",
+        "Shoes & Footwear",
+        "Bags & Luggage",
+        "Watches",
+        "Jewelry",
+        "Accessories"
+      ]
+    },
+    {
+      "id": "food_menu_offer",
+      "name": "Food Offer",
+      "subtitle": "Menu • Combo price",
+      "ready": false,
+      "c1": "#5E3B0A",
+      "c2": "#200F02",
+      "accent": "#FB923C",
+      "categories": [
+        "Food & Beverages",
+        "Groceries",
+        "Kitchen & Dining"
+      ]
+    },
+    {
+      "id": "event_invite",
+      "name": "Event Invite",
+      "subtitle": "Date • Place • Time",
+      "ready": false,
+      "c1": "#0A3B5E",
+      "c2": "#020A20",
+      "accent": "#22D3FF",
+      "categories": []
+    }
+  ]
+}
