@@ -2,79 +2,34 @@
   "version": 1,
   "templates": [
     {
-      "id": "product_offer",
-      "name": "Product Offer",
-      "subtitle": "Price • Contact • Delivery",
+      "id": "1",
+      "name": "1",
+      "subtitle": "",
       "ready": true,
       "c1": "#2A0508",
       "c2": "#000000",
       "accent": "#E50914",
       "categories": [
-        "Electronics",
-        "Mobile Phones & Tablets",
-        "Computers & Laptops",
-        "Home Appliances",
-        "Gaming & Consoles",
-        "Cameras & Photography"
+        "Electronics"
       ],
-      "previewFile": "",
-      "prompt": "",
+      "previewFile": "previews/1.webp",
+      "prompt": "Create a premium, ultra-high-quality commercial product advertisement poster using the uploaded reference image as the primary design and layout reference.\n\n**DESIGN STYLE:**\nProfessional Sri Lankan electronics advertising poster, premium e-commerce product promotion, modern technology advertisement, dramatic black and red color scheme, cinematic studio lighting, realistic product photography, sharp details, and visually powerful composition.\n\n**CANVAS & FORMAT:**\n- Vertical portrait format, 4:5 aspect ratio.\n- Resolution: 1080 × 1350 pixels.\n- Ultra-sharp, high-resolution commercial design.\n- Pure black background with dramatic red ambient lighting.\n- Balanced spacing and professional alignment.\n- All text and important elements must remain inside safe margins.\n\n**BACKGROUND & LIGHTING:**\nCreate a luxurious dark black studio environment with a powerful red glowing light behind the main product. Add a subtle reflective black surface underneath the product. Use realistic shadows, red rim lighting, and cinematic highlights to create a premium advertising atmosphere.\n\n**TOP SECTION – HEADLINE:**\nAt the top, add a small bold white promotional headline:\n\"Special Offer – Limited Time Only\"\n\nPlace a thin red underline below it.\n\nUnderneath, display the main product name in extremely large, bold, white typography. Make it the most prominent text in the upper section.\n\n**CENTER SECTION – MAIN PRODUCT:**\nDisplay a large, photorealistic, high-detail image of the actual product in the center.\n\nThe product must be the visual hero of the advertisement. Preserve its real design, shape, proportions, colors, branding, and physical details. Do not invent or modify product features.\n\nUse dramatic red backlighting and realistic reflections to make the product stand out against the dark background.\n\n**FEATURE INFORMATION BOXES:**\nBelow the main product, create two horizontally aligned rectangular information boxes.\n\nUse thin glowing red borders, black backgrounds, and rounded corners.\n\nEach box should contain:\n- A large red feature-related icon.\n- Bold white feature heading.\n- Short, clearly readable supporting text.\n\n**PACKAGE CONTENTS SECTION:**\nCreate a separate black rectangular box with a red outline.\n\nAdd a red header label reading:\n\"Package Includes:\"\n\nDisplay individual package items as realistic miniature product images arranged horizontally. Each item should have a short white label underneath.\n\n**PRICE SECTION:**\nCreate a visually striking red gradient price panel next to the package contents section.\n\nUse:\n\"Special Price:\"\n\nDisplay the price in extremely large, bold white typography.\n\nAdd a smaller rounded outlined label underneath:\n\"Limited-Time Offer\"\n\nThe price must be one of the most eye-catching elements of the entire poster.\n\n**DELIVERY & PAYMENT SECTION:**\nAdd two small horizontally aligned black information boxes with thin red borders.\n\nInclude appropriate white icons and bold white text for:\n- Cash on Delivery Available\n- Islandwide Delivery\n\n**BOTTOM CONTACT SECTION:**\nCreate a wide, bright red gradient contact banner across the bottom.\n\nInclude:\n- A large white telephone icon.\n- The words \"CONTACT US\".\n- A large, bold, clearly readable phone number.\n\n**TYPOGRAPHY:**\nUse a modern, heavy-weight sans-serif font similar to Montserrat ExtraBold, Arial Bold, or Helvetica Bold.\n\nAll text must be perfectly spelled, sharp, properly aligned, and easy to read.\n\n**COLOR PALETTE:**\n- Deep black: #050505\n- Bright red: #F00012\n- Dark red: #A80000\n- Pure white: #FFFFFF\n- Subtle blue accents only where appropriate for the actual product.\n\n**FINAL QUALITY REQUIREMENTS:**\nThe final image must look like a professionally designed advertisement created by an experienced commercial graphic designer.\n\nMaintain the same visual hierarchy, section arrangement, dark cinematic atmosphere, red glowing borders, product-focused composition, and premium promotional appearance of the uploaded reference.\n\nDo not create a simple template, cartoon illustration, flat design, or generic AI-looking advertisement.\n\nDo not add unnecessary decorative elements, random text, fake logos, or additional products.\n\nThe final result must be visually striking, realistic, clean, professional, and suitable for a Facebook product advertisement.",
       "defaults": {}
     },
     {
-      "id": "big_sale",
-      "name": "Big Sale12",
-      "subtitle": "Discount • Dates",
-      "ready": false,
-      "c1": "#3B0A5E",
-      "c2": "#0A0220",
-      "accent": "#FFC107",
+      "id": "2",
+      "name": "2",
+      "subtitle": "",
+      "ready": true,
+      "c1": "#2A0508",
+      "c2": "#000000",
+      "accent": "#E50914",
       "categories": [
-        "*"
-      ]
-    },
-    {
-      "id": "fashion_drop",
-      "name": "Fashion Drop",
-      "subtitle": "New arrivals • Sizes",
-      "ready": false,
-      "c1": "#5E0A3B",
-      "c2": "#200212",
-      "accent": "#F472B6",
-      "categories": [
-        "Clothing & Fashion",
-        "Shoes & Footwear",
-        "Bags & Luggage",
-        "Watches",
-        "Jewelry",
-        "Accessories"
-      ]
-    },
-    {
-      "id": "food_menu_offer",
-      "name": "Food Offer",
-      "subtitle": "Menu • Combo price",
-      "ready": false,
-      "c1": "#5E3B0A",
-      "c2": "#200F02",
-      "accent": "#FB923C",
-      "categories": [
-        "Food & Beverages",
-        "Groceries",
-        "Kitchen & Dining"
-      ]
-    },
-    {
-      "id": "event_invite",
-      "name": "Event Invite",
-      "subtitle": "Date • Place • Time",
-      "ready": false,
-      "c1": "#0A3B5E",
-      "c2": "#020A20",
-      "accent": "#22D3FF",
-      "categories": [
-        "*"
-      ]
+        "Electronics"
+      ],
+      "previewFile": "previews/2.webp",
+      "prompt": "Create a premium, ultra-high-quality commercial product advertisement poster using the uploaded reference image as the primary design and layout reference.\n\n**DESIGN STYLE:**\nProfessional Sri Lankan electronics advertising poster, premium e-commerce product promotion, modern technology advertisement, dramatic black and red color scheme, cinematic studio lighting, realistic product photography, sharp details, and visually powerful composition.\n\n**CANVAS & FORMAT:**\n- Vertical portrait format, 4:5 aspect ratio.\n- Resolution: 1080 × 1350 pixels.\n- Ultra-sharp, high-resolution commercial design.\n- Pure black background with dramatic red ambient lighting.\n- Balanced spacing and professional alignment.\n- All text and important elements must remain inside safe margins.\n\n**BACKGROUND & LIGHTING:**\nCreate a luxurious dark black studio environment with a powerful red glowing light behind the main product. Add a subtle reflective black surface underneath the product. Use realistic shadows, red rim lighting, and cinematic highlights to create a premium advertising atmosphere.\n\n**TOP SECTION – HEADLINE:**\nAt the top, add a small bold white promotional headline:\n\"Special Offer – Limited Time Only\"\n\nPlace a thin red underline below it.\n\nUnderneath, display the main product name in extremely large, bold, white typography. Make it the most prominent text in the upper section.\n\n**CENTER SECTION – MAIN PRODUCT:**\nDisplay a large, photorealistic, high-detail image of the actual product in the center.\n\nThe product must be the visual hero of the advertisement. Preserve its real design, shape, proportions, colors, branding, and physical details. Do not invent or modify product features.\n\nUse dramatic red backlighting and realistic reflections to make the product stand out against the dark background.\n\n**FEATURE INFORMATION BOXES:**\nBelow the main product, create two horizontally aligned rectangular information boxes.\n\nUse thin glowing red borders, black backgrounds, and rounded corners.\n\nEach box should contain:\n- A large red feature-related icon.\n- Bold white feature heading.\n- Short, clearly readable supporting text.\n\n**PACKAGE CONTENTS SECTION:**\nCreate a separate black rectangular box with a red outline.\n\nAdd a red header label reading:\n\"Package Includes:\"\n\nDisplay individual package items as realistic miniature product images arranged horizontally. Each item should have a short white label underneath.\n\n**PRICE SECTION:**\nCreate a visually striking red gradient price panel next to the package contents section.\n\nUse:\n\"Special Price:\"\n\nDisplay the price in extremely large, bold white typography.\n\nAdd a smaller rounded outlined label underneath:\n\"Limited-Time Offer\"\n\nThe price must be one of the most eye-catching elements of the entire poster.\n\n**DELIVERY & PAYMENT SECTION:**\nAdd two small horizontally aligned black information boxes with thin red borders.\n\nInclude appropriate white icons and bold white text for:\n- Cash on Delivery Available\n- Islandwide Delivery\n\n**BOTTOM CONTACT SECTION:**\nCreate a wide, bright red gradient contact banner across the bottom.\n\nInclude:\n- A large white telephone icon.\n- The words \"CONTACT US\".\n- A large, bold, clearly readable phone number.\n\n**TYPOGRAPHY:**\nUse a modern, heavy-weight sans-serif font similar to Montserrat ExtraBold, Arial Bold, or Helvetica Bold.\n\nAll text must be perfectly spelled, sharp, properly aligned, and easy to read.\n\n**COLOR PALETTE:**\n- Deep black: #050505\n- Bright red: #F00012\n- Dark red: #A80000\n- Pure white: #FFFFFF\n- Subtle blue accents only where appropriate for the actual product.\n\n**FINAL QUALITY REQUIREMENTS:**\nThe final image must look like a professionally designed advertisement created by an experienced commercial graphic designer.\n\nMaintain the same visual hierarchy, section arrangement, dark cinematic atmosphere, red glowing borders, product-focused composition, and premium promotional appearance of the uploaded reference.\n\nDo not create a simple template, cartoon illustration, flat design, or generic AI-looking advertisement.\n\nDo not add unnecessary decorative elements, random text, fake logos, or additional products.\n\nThe final result must be visually striking, realistic, clean, professional, and suitable for a Facebook product advertisement.",
+      "defaults": {}
     }
   ]
 }
