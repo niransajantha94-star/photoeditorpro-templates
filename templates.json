@@ -2,37 +2,17 @@
   "version": 1,
   "templates": [
     {
-      "id": "f",
-      "name": "f",
+      "id": "h",
+      "name": "h",
       "subtitle": "",
       "ready": true,
       "c1": "#2A0508",
       "c2": "#000000",
       "accent": "#E50914",
-      "categories": [
-        "Electronics"
-      ],
-      "previewFile": "f.webp",
+      "categories": [],
+      "previewFile": "previews/h.webp",
       "prompt": "# PREMIUM PRODUCT ADVERTISEMENT DESIGNER — MASTER PROMPT V2 (DYNAMIC PLACEHOLDER VERSION)\n\nYou are a professional commercial advertising designer specializing in premium Facebook product advertisements.\n\nYour task is to create a high-quality, eye-catching, conversion-focused product advertisement using the uploaded product reference image and the information provided through the following dynamic placeholders.\n\n## PRODUCT INFORMATION\n\n- Product Category: {category}\n- Product Reference: {product}\n- Promotional Headline: {headline}\n- Product Name: {product_name}\n- Product Details: {product_details}\n- Feature 1 Title: {feature1_title}\n- Feature 1 Description: {feature1_text}\n- Feature 2 Title: {feature2_title}\n- Feature 2 Description: {feature2_text}\n- Package Item 1: {item1}\n- Package Item 2: {item2}\n- Package Item 3: {item3}\n- Special Price: {price}\n- Promotional Offer: {offer_tag}\n- Delivery Information 1: {delivery1}\n- Delivery Information 2: {delivery2}\n- Contact Number: {phone}\n\n## 1. DESIGN STYLE — STRICT CONSISTENCY\n\nFollow this visual identity for EVERY advertisement:\n\n- Premium black and deep charcoal background.\n- Powerful red accent lighting and red glowing highlights.\n- Bright white bold typography.\n- Red borders around information panels.\n- Professional product photography.\n- Cinematic studio lighting.\n- Realistic shadows and reflections.\n- High contrast between text and background.\n- Clean, modern, premium commercial advertising aesthetic.\n- Professional visual hierarchy.\n\nIMPORTANT:\n\nEvery new advertisement must maintain the same overall design identity, visual quality, color palette, typography style, spacing, and layout structure.\n\nOnly the product, text, features, package contents, prices and relevant product visuals should change.\n\n## 2. FIXED LAYOUT STRUCTURE\n\nCreate a vertical 4:5 advertisement with the following layout:\n\n### SECTION 1 — TOP HEADLINE\n\n- Display {headline} as the small promotional headline at the top.\n- Add a thin red horizontal separator.\n- Display {product_name} in large, bold, white typography below it.\n- Product name must be the main headline.\n- Maintain strong visual hierarchy.\n\n### SECTION 2 — HERO PRODUCT IMAGE\n\n- Use {product} as the primary product reference.\n- Display a large, realistic product image in the center.\n- Product must be the main visual attraction.\n- Use professional studio lighting.\n- Add dramatic red backlighting.\n- Add realistic ground shadows and subtle reflections.\n- Keep the product highly detailed and recognizable.\n- Never distort the original product design.\n- Use {category} to understand the product type and create appropriate visual surroundings.\n\n### SECTION 3 — KEY SELLING FEATURES\n\nCreate two premium information panels side by side.\n\nPANEL 1:\n\n- Red outline.\n- Relevant feature icon.\n- Display {feature1_title} as the feature heading.\n- Display {feature1_text} as the supporting description.\n- Use short, readable white text.\n\nPANEL 2:\n\n- Red outline.\n- Large relevant feature icon.\n- Display {feature2_title} as the feature heading.\n- Display {feature2_text} as the supporting description.\n- Use bold white typography.\n\n### SECTION 4 — PACKAGE CONTENTS + PRICE\n\nLEFT PANEL — PACKAGE CONTENTS:\n\n- Create a red-outlined package contents section.\n- Display the heading \"PACKAGE INCLUDES\".\n- Show three individual product accessories using realistic miniature product images.\n- Item 1: {item1}\n- Item 2: {item2}\n- Item 3: {item3}\n- Each item must have a clear label.\n- Arrange items neatly in equal columns.\n- Maintain consistent spacing and proportions.\n\nRIGHT PANEL — SPECIAL PRICE:\n\n- Create a bright red price panel.\n- Display the heading \"SPECIAL PRICE\".\n- Display {price} in large, highly visible white typography.\n- Display {offer_tag} inside a premium offer badge.\n- Make the price one of the strongest visual elements.\n\n### SECTION 5 — DELIVERY INFORMATION\n\nCreate two horizontal information panels:\n\nPANEL 1:\n- Use a professional cash/payment icon.\n- Display {delivery1}.\n\nPANEL 2:\n- Use a professional delivery/truck icon.\n- Display {delivery2}.\n\nUse white icons, bold white typography and red borders.\n\n### SECTION 6 — CONTACT INFORMATION\n\nAt the bottom, create a wide red contact banner.\n\nInclude:\n\n- White phone icon.\n- \"CONTACT US\" text.\n- Display {phone} in large, bold white typography.\n\nThe contact section must be clearly visible and easy to read.\n\n## 3. TYPOGRAPHY RULES\n\n- Use bold, modern sans-serif fonts.\n- Use large white typography for headlines.\n- Use bold white typography for important information.\n- Use red for promotional highlights.\n- Maintain consistent font weights and alignment.\n- Avoid tiny text.\n- Avoid unnecessary decorative fonts.\n- All text must be correctly spelled.\n- Preserve the exact spelling of all supplied placeholder values.\n\n## 4. PRODUCT ACCURACY RULES\n\n- Use the uploaded product image and {product} as the primary visual reference.\n- Preserve the actual product shape, design, color, buttons, branding and physical details.\n- Do not invent product specifications.\n- Do not add accessories that are not included in {item1}, {item2} and {item3}.\n- Do not create fake logos or misleading product claims.\n- Never replace the actual product with a different model.\n- Use {product_details} only as the supplied product information.\n\n## 5. TEXT ACCURACY — EXTREMELY IMPORTANT\n\nUse the exact information supplied through the placeholders.\n\nDo not:\n\n- Change prices.\n- Change contact numbers.\n- Invent specifications.\n- Modify product names.\n- Add fake offers.\n- Create random letters or unreadable text.\n- Repeat information unnecessarily.\n- Replace supplied text with alternative wording.\n\nKeep all text properly aligned, readable and professionally arranged.\n\nIf a placeholder is empty or missing, do not invent information. Leave that element out while maintaining the overall layout.\n\n## 6. DESIGN QUALITY\n\nThe final advertisement must look like it was created by an experienced professional advertising agency.\n\nRequirements:\n\n- Ultra-high-resolution appearance.\n- Photorealistic product rendering.\n- Professional commercial photography.\n- Premium lighting and shadows.\n- Clean spacing and alignment.\n- Balanced composition.\n- Strong visual hierarchy.\n- No clutter.\n- No watermarks.\n- No unnecessary decorations.\n\n## 7. OUTPUT FORMAT\n\n- Aspect Ratio: 4:5\n- Orientation: Portrait.\n- Recommended Resolution: 1600 × 2000 or higher.\n- Platform: Facebook Feed / Instagram Feed.\n- Style: Premium Commercial Product Advertisement.\n\n## 8. FINAL INSTRUCTION\n\nStudy the uploaded reference advertisement carefully before designing.\n\nUnderstand the product category, product appearance, features, package contents and promotional information.\n\nMaintain the same overall visual identity and section arrangement for every generated advertisement.\n\nCreate a NEW advertisement using the supplied dynamic placeholder information while maintaining strict design consistency.\n\nThe final result must be visually consistent with the original reference design, but the product-specific content and imagery must be accurate.\n\nDo not explain the design. Generate the final advertisement only.",
-      "defaults": {
-        "category": "",
-        "product": "",
-        "headline": "",
-        "product_name": "",
-        "product_details": "",
-        "feature1_title": "",
-        "feature1_text": "",
-        "feature2_title": "",
-        "feature2_text": "",
-        "item1": "",
-        "item2": "",
-        "item3": "",
-        "price": "",
-        "offer_tag": "",
-        "delivery1": "",
-        "delivery2": "",
-        "phone": ""
-      }
+      "defaults": {}
     }
   ]
 }
